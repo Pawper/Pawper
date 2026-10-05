@@ -6,7 +6,7 @@ Independent developer, game designer, artist. [pawper.dev](https://pawper.dev)
 
 <br clear="left">
 
-<a href="https://pawper.dev/ls/foundations-of-digital-agency"><img src="https://raw.githubusercontent.com/Pawper/Pawper/main/assets/foundations-of-digital-agency.svg" alt="Foundations of Digital Agency" width="64" align="left"></a> **[Foundations of Digital Agency](https://pawper.dev/ls/foundations-of-digital-agency)** is a tutorial series for people who want to run their own tools instead of renting them: the command line, Git and GitHub, WSL, Docker, SSH and security, then agent setup and AI-assisted workflows, one foundation per part. Written for newcomers and cross-posted to Dev.to.
+<a href="https://pawper.dev/ls/foundations-of-digital-agency"><img src="https://raw.githubusercontent.com/Pawper/Pawper/main/assets/foundations-of-digital-agency.svg?v=2" alt="Foundations of Digital Agency" width="64" align="left"></a> **[Foundations of Digital Agency](https://pawper.dev/ls/foundations-of-digital-agency)** is a tutorial series for people who want to run their own tools instead of renting them: the command line, Git and GitHub, WSL, Docker, SSH and security, then agent setup and AI-assisted workflows, one foundation per part. Written for newcomers and cross-posted to Dev.to.
 
 <br clear="left">
 
