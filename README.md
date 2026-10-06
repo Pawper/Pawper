@@ -20,7 +20,7 @@ Independent developer, game designer, artist. [pawper.dev](https://pawper.dev)
 
 <br clear="left">
 
-<a href="https://drawabit.app"><img src="https://drawabit.app/icons/192" alt="Draw A Bit" width="64" align="left"></a> **[Draw A Bit](https://drawabit.app)** is a calm drawing-practice app for the web. Short timed exercises and skills, alone or with friends, in a quiet workspace of movable panes, with a catalog of public domain reference packs from museums and libraries. Draw together in small live sessions, watch a broadcast and draw along, or schedule a session for later. Built with Next.js, React, TypeScript and Supabase, with Cloudflare Realtime for live rooms. A product of Bitblitzin Softworks.
+<a href="https://drawabit.app"><img src="https://raw.githubusercontent.com/Pawper/Pawper/main/assets/drawabit.png" alt="Draw A Bit" width="64" align="left"></a> **[Draw A Bit](https://drawabit.app)** is a calm drawing-practice app for the web. Short timed exercises and skills, alone or with friends, in a quiet workspace of movable panes, with a catalog of public domain reference packs from museums and libraries. Draw together in small live sessions, watch a broadcast and draw along, or schedule a session for later. Built with Next.js, React, TypeScript and Supabase, with Cloudflare Realtime for live rooms. A product of Bitblitzin Softworks.
 
 <br clear="left">
 
