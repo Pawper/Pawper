@@ -14,6 +14,10 @@ Independent developer, game designer, artist. [pawper.dev](https://pawper.dev)
 
 <br clear="left">
 
+<a href="https://drawabit.app"><img src="https://drawabit.app/icons/192" alt="Draw A Bit" width="64" align="left"></a> **[Draw A Bit](https://drawabit.app)** is a calm drawing-practice app for the web. Short timed exercises and skills, alone or with friends, in a quiet workspace of movable panes, with a catalog of public domain reference packs from museums and libraries. Draw together in small live sessions, watch a broadcast and draw along, or schedule a session for later. Built with Next.js, React, TypeScript and Supabase, with Cloudflare Realtime for live rooms. A product of Bitblitzin Softworks.
+
+<br clear="left">
+
 <a href="https://github.com/Pawper/agent-project-bootstrap"><img src="https://raw.githubusercontent.com/Pawper/agent-project-bootstrap/main/assets/icon.png" alt="agent-project-bootstrap" width="64" align="left"></a> **[agent-project-bootstrap](https://github.com/Pawper/agent-project-bootstrap)** is a Claude Code plugin for projects where many coding agents work at once. It decides one home for each kind of thing, refuses the commands that make agents collide, merges in batches, and opens every session with the live state of the project. Built from what went wrong on real projects, one lesson per pull request.
 
 <br clear="left">
