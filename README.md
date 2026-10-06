@@ -10,6 +10,10 @@ Independent developer, game designer, artist. [pawper.dev](https://pawper.dev)
 
 <br clear="left">
 
+<a href="https://atstation.app"><img src="https://atstation.app/icon.svg" alt="At Station" width="64" align="left"></a> **[At Station](https://atstation.app)** is a calm, station-based schedule for Wear OS, Android and the web. Your day is made of stations, the places and modes you return to, and your watch gives a soft chime to keep you where you meant to be, with a Red Alert only when you are late. The phone notices where you are, the watch works with the phone left behind, and the web is for planning and review. Built with Kotlin, Jetpack Compose for Wear OS, Next.js and Supabase.
+
+<br clear="left">
+
 <a href="https://github.com/Pawper/agent-project-bootstrap"><img src="https://raw.githubusercontent.com/Pawper/agent-project-bootstrap/main/assets/icon.png" alt="agent-project-bootstrap" width="64" align="left"></a> **[agent-project-bootstrap](https://github.com/Pawper/agent-project-bootstrap)** is a Claude Code plugin for projects where many coding agents work at once. It decides one home for each kind of thing, refuses the commands that make agents collide, merges in batches, and opens every session with the live state of the project. Built from what went wrong on real projects, one lesson per pull request.
 
 <br clear="left">
