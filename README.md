@@ -16,7 +16,7 @@ Independent developer, game designer, artist. [pawper.dev](https://pawper.dev)
 
 **[Bitblitzin Softworks](https://bitblitzin.com)** is the software studio I founded in San Francisco, making bitsized betterment: small apps for getting a little better every day. Each one gives you a kind, easy place to start, with no streaks to lose and nothing that nags. Start with a bit, then blitz: small wins add up, and over time they turn into real momentum. Situated and Draw A Bit, below, are its apps.
 
-<a href="https://situated.app"><img src="https://situated.app/icon.svg" alt="Situated" width="64" align="left"></a> **[Situated](https://situated.app)** is a calm, station-based schedule for Wear OS, Android and the web. Your day is made of stations, the places and modes you return to, and your watch gives a soft chime to keep you where you mean to be, with a Red Alert only when you are late. The phone notices where you are, the watch works with the phone left behind, and the web is for planning and review. Built with Kotlin, Jetpack Compose for Wear OS, Next.js and Supabase.
+<a href="https://situated.app"><img src="https://situated.app/icon.svg" alt="Situated" width="64" align="left"></a> **[Situated](https://situated.app)** is a calm, station-based schedule, on the web now with Wear OS and Android coming soon. Your day is made of stations, the places and modes you return to, and your watch gives a soft chime to keep you where you mean to be, with a Red Alert only when you are late. The phone notices where you are, the watch works with the phone left behind, and the web is for planning and review. Built with Kotlin, Jetpack Compose for Wear OS, Next.js and Supabase.
 
 <br clear="left">
 
