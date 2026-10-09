@@ -24,11 +24,11 @@ Independent developer, game designer, artist. [pawper.dev](https://pawper.dev)
 
 <br clear="left">
 
-<a href="https://github.com/Pawper/agent-project-bootstrap"><img src="https://raw.githubusercontent.com/Pawper/agent-project-bootstrap/main/assets/icon.png" alt="agent-project-bootstrap" width="64" align="left"></a> **[agent-project-bootstrap](https://github.com/Pawper/agent-project-bootstrap)** is a Claude Code plugin for projects where many coding agents work at once. It decides one home for each kind of thing, refuses the commands that make agents collide, merges in batches, and opens every session with the live state of the project. Built from what went wrong on real projects, one lesson per pull request.
+<a href="https://bitblitzin.com/bootstrap"><img src="https://raw.githubusercontent.com/Pawper/bitblitzin-bootstrap/main/assets/icon.png" alt="Bitblitzin Bootstrap" width="64" align="left"></a> **[Bitblitzin Bootstrap](https://bitblitzin.com/bootstrap)** is a Claude Code plugin for projects where many coding agents work at once: house rules for thirty agents, and the machinery that makes them hold when nobody is watching. One home for each kind of thing, ten hooks that refuse the commands that make agents collide, a merge queue that batches and tests only what each change touched, and a two-second session brief with the live state of the project. It is the enforcement layer between an agent orchestrator and the repository, and sits alongside fleet dashboards, spec tools and GitHub's own merge queue rather than replacing them. Built from what went wrong on real projects, one lesson per pull request. MIT, [source on GitHub](https://github.com/Pawper/bitblitzin-bootstrap).
 
 <br clear="left">
 
 ```text
-/plugin marketplace add Pawper/agent-project-bootstrap
-/plugin install project-bootstrap@agent-project-bootstrap
+/plugin marketplace add Pawper/bitblitzin-bootstrap
+/plugin install bitblitzin-bootstrap@bitblitzin-bootstrap
 ```
